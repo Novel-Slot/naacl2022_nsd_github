@@ -1,0 +1,267 @@
+i want to bring four people to a place that s close to downtown that serves churrascaria cuisine
+O O O O B-party_size_number O O O O O O B-spatial_relation O B-poi O O B-restaurant_type O
+O O O O B-party_size_number B-party_size_description O O O O O B-served_dish O B-served_dish O O B-served_dish O
+can you get me reservations for a highly rated restaurant in seychelles
+O O O O O O O B-sort I-sort B-restaurant_type O B-country
+O O O O O O O O O O O B-state
+on june 27  2026 i d like to go to a delaware gastropub
+O B-timeRange I-timeRange I-timeRange O O O O O O O B-state B-restaurant_type
+O B-restaurant_name B-timeRange B-poi O O O O O O O B-cuisine B-restaurant_type
+make a reservation at a bakery that has acquacotta in central african republic for five
+O O O O O B-restaurant_type O O B-served_dish O B-country I-country I-country O B-party_size_number
+O O O O O B-restaurant_type O O B-cuisine O B-cuisine B-country I-country O B-party_size_number
+make me a reservation in south carolina
+O O O O O B-state I-state
+O O O O O B-cuisine B-state
+restaurant in bulgaria this week party for 9 numbers
+B-restaurant_type O B-country B-timeRange I-timeRange O O B-party_size_number O
+O O B-cuisine B-party_size_description B-poi O O B-party_size_number O
+book a spot for ten at a top-rated  caucasian restaurant not far  from selmer
+O O O O B-party_size_number O O B-sort B-cuisine B-restaurant_type B-spatial_relation I-spatial_relation O B-city
+O O O O B-party_size_number O O B-restaurant_type B-cuisine B-restaurant_type B-spatial_relation I-spatial_relation O B-state
+book a table for 2 at a restaurant in follett
+O O O O B-party_size_number O O B-restaurant_type O B-city
+O O O O B-party_size_number O O O O B-state
+book a brasserie in samoa for four people
+O O B-restaurant_type O B-country O B-party_size_number O
+O O B-restaurant_type O B-country O B-party_size_number B-party_size_description
+find a reservation at a restaurant that serves gougère in laneville with a party of nine
+O O O O O B-restaurant_type O O B-served_dish O B-city O O O O B-party_size_number
+O O O O O O O O B-served_dish O B-country O O O O B-party_size_number
+book a bakery for lebanese on january 11th  2032
+O O B-restaurant_type O B-cuisine O B-timeRange I-timeRange I-timeRange
+O O B-restaurant_type O B-cuisine O B-restaurant_name B-timeRange B-state
+book a table for 8 at a restaurant that serves far breton
+O O O O B-party_size_number O O B-restaurant_type O O B-served_dish I-served_dish
+O O O O B-party_size_number O O O O O B-served_dish I-served_dish
+book a table today at a steakhouse for eight that serves sashimi
+O O O B-timeRange O O B-restaurant_type O B-party_size_number O O B-served_dish
+O O O O O O B-restaurant_type O B-party_size_number O O B-served_dish
+coon chicken inn restaurant for 1 am for me  clarice and debbie
+B-restaurant_name I-restaurant_name I-restaurant_name B-restaurant_type O B-timeRange I-timeRange O B-party_size_description I-party_size_description I-party_size_description I-party_size_description
+B-served_dish B-restaurant_type I-restaurant_type O O B-timeRange B-party_size_description O O B-party_size_description I-party_size_description B-state
+find a reservation at fish express
+O O O O B-restaurant_name I-restaurant_name
+O O B-restaurant_type O B-restaurant_name B-state
+book a bar that serves italian-american cuisine neighboring wilson av for one person
+O O B-restaurant_type O O B-served_dish I-served_dish B-spatial_relation B-poi I-poi O B-party_size_number O
+O O O O O B-served_dish O B-served_dish B-cuisine B-poi O B-spatial_relation O
+book a restaurant for 3 people at eighteen oclock in saint vincent and the grenadines
+O O B-restaurant_type O B-party_size_number O O B-timeRange O O B-country I-country I-country I-country I-country
+O O O O B-party_size_number O O B-timeRange B-cuisine O B-restaurant_name B-country I-country I-country I-country
+book a table around london borough of ealing that is highly rated in a gluten free bar
+O O O B-spatial_relation B-poi I-poi I-poi I-poi O O B-sort I-sort O O B-cuisine I-cuisine B-restaurant_type
+O O O B-spatial_relation B-country I-country I-country I-country O O O O O O B-cuisine B-served_dish B-restaurant_type
+book me a reservation at a bar around juliff for three people that serves bucatini for now
+O O O O O O B-restaurant_type B-spatial_relation B-city O B-party_size_number O O O B-served_dish O B-timeRange
+O O O O O O O B-spatial_relation B-cuisine O B-party_size_number B-party_size_description O O B-served_dish O O
+book a highly rated place in in in seven years  at a pub
+O O B-sort I-sort O O B-state B-timeRange I-timeRange I-timeRange O O B-restaurant_type
+O O O O O O B-timeRange I-timeRange I-timeRange B-poi O O B-restaurant_type
+book a table for ten for breakfast in minnesota
+O O O O B-party_size_number O B-timeRange O B-state
+O O O O B-party_size_number O B-party_size_description O B-state
+book a restaurant for three on feb  18
+O O B-restaurant_type O B-party_size_number O B-timeRange I-timeRange
+O O O O B-party_size_number O B-restaurant_name B-timeRange
+please make me reservations somewhere for eight people in foley  nv
+O O O O O O B-party_size_number O O B-city B-state
+O O O O O O B-party_size_number B-party_size_description O B-cuisine B-state
+i d like to eat at a restaurant around china with a party of 7 anywhere that serves ouzeri
+O O O O O O O B-restaurant_type B-spatial_relation B-country O O O O B-party_size_number O O O B-cuisine
+O O O O O O O O B-spatial_relation B-poi O O O O B-party_size_number O O O B-served_dish
+i d like a table for midday at the unseen bean
+O O O O O O B-timeRange O B-restaurant_name I-restaurant_name I-restaurant_name
+O O O O O O B-cuisine O B-party_size_description B-cuisine B-state
+i want a table for me and my kids in turkey at a neighboring restaurant
+O O O O O B-party_size_description I-party_size_description I-party_size_description I-party_size_description O B-country O O B-spatial_relation B-restaurant_type
+O O O O O O B-party_size_description I-party_size_description I-party_size_description I-party_size_description B-country O O B-served_dish O
+i d like to reserve a table at a pub that serves andouillettes within the same area in san marino
+O O O O O O O O O B-restaurant_type O O B-served_dish B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-country I-country
+O O O O O O O O O O O O B-served_dish B-spatial_relation I-spatial_relation I-spatial_relation B-poi O B-restaurant_name B-state
+book the space aliens grill & bar in hord wy for feb  the twenty-seventh
+O O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name O B-city B-state O B-timeRange I-timeRange I-timeRange
+O O B-party_size_description B-cuisine B-party_size_description I-party_size_description I-party_size_description O B-party_size_description I-party_size_description O B-restaurant_name B-party_size_description B-poi
+book a table this evening in saint vincent and the grenadines at a gastropub
+O O O O B-timeRange O B-country I-country I-country I-country I-country O O B-restaurant_type
+O O O O B-served_dish O B-country I-country I-country I-country I-country O O B-restaurant_type
+food truck in panama for five
+B-restaurant_type I-restaurant_type O B-country O B-party_size_number
+O B-restaurant_type O B-poi O B-party_size_number
+book a table for chasity ruiz and mary at the fat duck in puerto rico
+O O O O B-party_size_description I-party_size_description I-party_size_description I-party_size_description O B-restaurant_name I-restaurant_name I-restaurant_name O B-country I-country
+O O O O B-cuisine B-country I-country I-country O B-party_size_description B-country I-country O B-country I-country
+i need a table for 1 minute from now at any pub for five around in that also serves fisn n chips
+O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O O B-restaurant_type O B-party_size_number B-spatial_relation B-state O O O B-served_dish I-served_dish I-served_dish
+O O O O O B-timeRange B-city I-city B-sort O O B-restaurant_type O B-party_size_number B-poi O O O O B-cuisine B-party_size_description B-restaurant_type
+21 weeks from now elinor  crystal turner and nita want to eat german food at a bar in distant california
+B-timeRange I-timeRange I-timeRange I-timeRange B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description O O O B-cuisine O O O B-restaurant_type O B-spatial_relation B-state
+B-timeRange B-city I-city B-sort B-party_size_description B-country I-country B-party_size_description I-party_size_description O O O B-cuisine O O O O O B-served_dish B-state
+book a spot for 7 at an outdoor food court in denmark
+O O O O B-party_size_number O O B-facility B-restaurant_type I-restaurant_type O B-country
+O O O O B-party_size_number O O B-served_dish B-restaurant_type I-restaurant_type O B-state
+i need a reservation for february 27  2020 at a bar that serves paté
+O O O O O B-timeRange I-timeRange I-timeRange O O B-restaurant_type O O B-served_dish
+O O O O O B-restaurant_name B-timeRange B-poi O O O O O B-state
+i need a reservation for ten at a tavern in west virginia
+O O O O O B-party_size_number O O B-restaurant_type O B-state I-state
+O O O O O B-party_size_number O O B-restaurant_type O B-cuisine B-state
+i want a table for five at a restaurant with latin food in arkansas for 1 hour from now
+O O O O O B-party_size_number O O B-restaurant_type O B-cuisine O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O O B-party_size_number O O O O B-cuisine O O B-state O B-timeRange B-city I-city B-sort
+book a mediterranean restaurant for my sister and i
+O O B-cuisine B-restaurant_type O B-party_size_description I-party_size_description I-party_size_description I-party_size_description
+O O B-cuisine O O B-party_size_description I-party_size_description I-party_size_description O
+book me a reservation for eight for the top-rated bakery eleven hours from now in mango
+O O O O O B-party_size_number O O B-sort B-restaurant_type B-timeRange I-timeRange I-timeRange I-timeRange O B-city
+O O O O O B-party_size_number O O B-party_size_description B-restaurant_type B-timeRange B-city I-city B-sort O B-state
+table for 8 at a popular food court
+O O B-party_size_number O O B-sort B-restaurant_type I-restaurant_type
+O O B-party_size_number O O B-cuisine B-restaurant_type I-restaurant_type
+find me a table for 8 people at a nearby al restaurant one minute from now
+O O O O O B-party_size_number O O O B-spatial_relation B-state B-restaurant_type B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O O B-party_size_number B-party_size_description O O B-served_dish I-served_dish B-restaurant_type B-spatial_relation B-city I-city B-sort
+book me a restaurant please
+O O O B-restaurant_type O
+O O O O O
+i would like to book a restaurant for two in 42 weeks from now in wagram
+O O O O O O B-restaurant_type O B-party_size_number O B-timeRange I-timeRange I-timeRange I-timeRange O B-city
+O O O O O O O O B-party_size_number O B-timeRange B-city I-city B-sort O B-state
+book a restaurant distant from downtown
+O O B-restaurant_type B-spatial_relation O B-poi
+O O O B-served_dish O B-served_dish
+book a table for nine people in svalbard and jan mayen
+O O O O B-party_size_number O O B-country I-country I-country I-country
+O O O O B-party_size_number B-party_size_description I-party_size_description B-country B-party_size_description B-restaurant_name B-state
+book a reservation for clinton street baking company & restaurant distant from downtown
+O O O O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name B-spatial_relation O B-poi
+O O O O B-cuisine B-country B-party_size_description B-restaurant_type O B-restaurant_type B-served_dish O B-served_dish
+find a restaurant in fm that servec quiche
+O O B-restaurant_type O B-state O O B-served_dish
+O O B-restaurant_type O B-restaurant_name O B-party_size_description B-country
+i want to book a pastelaria cafe in alabama for me and my great grandfather
+O O O O O B-cuisine B-restaurant_type O B-state O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description
+O O O O O B-cuisine B-restaurant_type O B-cuisine O O O B-party_size_description I-party_size_description B-served_dish
+make a reservation in a popular sicilian bar place nearby  for me only  tomorrow
+O O O O O B-sort B-cuisine B-restaurant_type O B-spatial_relation O O O B-timeRange
+O O O O O B-cuisine I-cuisine B-restaurant_type O B-served_dish O O O B-served_dish
+i need a table in ottoville on feb  15th  2029 at gus stevens seafood restaurant & buccaneer lounge
+O O O O O B-city O B-timeRange I-timeRange I-timeRange O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name
+O O O O O B-cuisine O B-restaurant_name B-timeRange B-poi O B-restaurant_name I-restaurant_name B-restaurant_type I-restaurant_type B-party_size_description B-country B-state
+i need a table for five at childs restaurants in brunei
+O O O O O B-party_size_number O B-restaurant_name I-restaurant_name O B-country
+O O O O O B-party_size_number O B-restaurant_name B-restaurant_type O B-state
+i would like to make a reservation for 2 for brunch
+O O O O O O O O B-party_size_number O B-timeRange
+O O O O O O O O B-party_size_number O B-party_size_description
+need a table  for party of five for december 26  2040 in the state of mt
+O O O O O O B-party_size_number O B-timeRange I-timeRange I-timeRange O O O O B-state
+O O O O O O B-party_size_number O B-served_dish B-timeRange B-poi O O O O B-state
+book me a restaurant for nine in statham
+O O O B-restaurant_type O B-party_size_number O B-city
+O O O O O B-party_size_number O B-state
+i d like a table for ten in 2 minutes at french horn  sonning eye
+O O O O O O B-party_size_number B-timeRange I-timeRange I-timeRange O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name
+O O O O O O B-party_size_number B-spatial_relation B-timeRange I-timeRange O B-restaurant_name I-restaurant_name B-country B-state
+i want to eat close to bowlegs seven years from now
+O O O O B-spatial_relation O B-city B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O B-served_dish O B-country B-timeRange B-city I-city B-sort
+book a popular restaurant of thai cuisine
+O O B-sort B-restaurant_type O B-cuisine O
+O B-party_size_description I-party_size_description B-restaurant_type O B-cuisine B-restaurant_type
+i d like to eat at the best restaurant
+O O O O O O O B-sort B-restaurant_type
+O O O O O O O B-restaurant_type I-restaurant_type
+i want to book a restaurant for four around zapata
+O O O O O B-restaurant_type O B-party_size_number B-spatial_relation B-city
+O O O O O O O B-party_size_number B-served_dish B-state
+i want to book a bar in bonaparte palau
+O O O O O B-restaurant_type O B-city B-state
+O O O O O O O B-cuisine B-state
+can you make reservations at a tea house that serves fettucine
+O O O O O O B-restaurant_type I-restaurant_type O O B-served_dish
+O O O O O O B-restaurant_type I-restaurant_type O O B-cuisine
+i want to go to 88th st-boyd av or close by and book seats for 10
+O O O O O B-poi I-poi I-poi O B-spatial_relation O O O O O B-party_size_number
+O O O O O B-cuisine I-cuisine B-poi O B-served_dish B-poi O O O O B-party_size_number
+i want to book a cafe for 3 in fargo
+O O O O O B-restaurant_type O B-party_size_number O B-city
+O O O O O O O B-party_size_number O B-state
+i d like to eat at a popular brasserie in chile with a party of 5
+O O O O O O O B-sort B-restaurant_type O B-country O O O O B-party_size_number
+O O O O O O O B-restaurant_type I-restaurant_type O B-poi O O O O B-party_size_number
+book a table at grecian coffee house for 7 on apr  7th  2024
+O O O O B-restaurant_name I-restaurant_name I-restaurant_name O B-party_size_number O B-timeRange I-timeRange I-timeRange
+O O O O B-cuisine B-country B-restaurant_type O B-timeRange O B-restaurant_name B-timeRange B-state
+i m looking for a churrascaria place with wifi that can serve a party of five
+O O O O O B-restaurant_type O O B-facility O O O O O O B-party_size_number
+O O O O O B-cuisine O O B-party_size_description O O O O O O B-party_size_number
+book the city tavern in holiday ks
+O O B-restaurant_name I-restaurant_name O B-city B-state
+O O B-served_dish B-restaurant_type O B-restaurant_name B-state
+book at table at forest av restaurant close-by for 2 1 second from now
+O O O O B-poi I-poi B-restaurant_type B-spatial_relation O B-party_size_number B-timeRange I-timeRange I-timeRange I-timeRange
+B-restaurant_type O O O B-restaurant_name I-restaurant_name B-restaurant_type B-poi O B-timeRange I-timeRange B-city I-city B-sort
+book me a table for 5 at a best rated restaurant in italy
+O O O O O B-party_size_number O O B-sort I-sort B-restaurant_type O B-country
+O O O O O B-party_size_number O O B-restaurant_type O O O B-state
+please make reservations in yeager for seven am at a highly rated indian brasserie
+O O O O B-city O B-timeRange I-timeRange O O B-sort I-sort B-cuisine B-restaurant_type
+O O O O B-poi O B-timeRange B-poi O O O O B-cuisine B-restaurant_type
+book a spot at savoy hotel and grill that is neighboring wisconsin
+O O O O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name O O B-spatial_relation B-state
+O O O O B-cuisine B-poi B-party_size_description B-restaurant_type O O B-served_dish B-state
+please book a room in spaghetti warehouse for catalina  delores and brandie mendoza at 12 am
+O O O O O B-restaurant_name I-restaurant_name O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description O B-timeRange I-timeRange
+O O O O O B-cuisine I-cuisine O B-cuisine B-country B-party_size_description B-country I-country O B-timeRange B-state
+i need to book a top-rated steakhouse this autumn  for 1 around azerbaijan
+O O O O O B-sort B-restaurant_type B-timeRange I-timeRange O B-party_size_number B-spatial_relation B-country
+O O O O O B-restaurant_type I-restaurant_type B-spatial_relation B-poi O B-timeRange B-served_dish B-state
+i would like to book the best food court with persian food within the same area as ok for my ex husband and i
+O O O O O O B-sort B-restaurant_type I-restaurant_type O B-cuisine O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description
+O O O O O O B-restaurant_type I-restaurant_type I-restaurant_type O B-cuisine B-restaurant_type B-spatial_relation I-spatial_relation I-spatial_relation B-poi O B-party_size_description O B-party_size_description I-party_size_description B-poi B-party_size_description O
+book a restaurant close by my daughters s work location with burrito three years from now
+O O B-restaurant_type B-spatial_relation I-spatial_relation B-poi I-poi I-poi I-poi I-poi O B-served_dish B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-served_dish B-poi B-party_size_description B-poi O O B-restaurant_type O B-restaurant_name B-timeRange B-city I-city B-sort
+i would like to book a highly rated brasserie with souvlaki neighboring la next week
+O O O O O O B-sort I-sort B-restaurant_type O B-cuisine B-spatial_relation B-state B-timeRange I-timeRange
+O O O O O O O O B-restaurant_type O B-restaurant_name B-served_dish I-served_dish I-served_dish B-state
+i need to take three people to eat
+O O O O B-party_size_number O O O
+O O O O B-party_size_number B-party_size_description I-party_size_description B-restaurant_type
+book a table in the united states for 10 at the berghoff
+O O O O O B-country I-country O B-party_size_number O B-restaurant_name I-restaurant_name
+O O O B-spatial_relation I-spatial_relation B-country B-poi O B-party_size_number O O B-state
+i d like to book a brasserie in virginia city  ga
+O O O O O O B-restaurant_type O B-city I-city B-state
+O O O O O O B-restaurant_type O B-cuisine I-cuisine B-state
+book a spot at a restaurant within walking distance of palau
+O O O O O B-restaurant_type B-spatial_relation I-spatial_relation I-spatial_relation O B-state
+O O O O O O B-spatial_relation I-spatial_relation B-poi O B-state
+book a restaurant in donnelly
+O O B-restaurant_type O B-city
+O O O O B-state
+i d like to eat at an internet restaurant with a party of four
+O O O O O O O B-facility B-restaurant_type O O O O B-party_size_number
+O O O O O O O B-restaurant_type I-restaurant_type O O O O B-party_size_number
+please make reservations for nine at 3 am
+O O O O B-party_size_number O B-timeRange I-timeRange
+O O O O B-party_size_number O B-timeRange B-state
+book a spot for kelli  jean and i at a pub at elevenses
+O O O O B-party_size_description I-party_size_description I-party_size_description I-party_size_description O O B-restaurant_type O B-timeRange
+O O O O B-cuisine B-country B-party_size_description O O O B-restaurant_type O B-state
+book a taverna that serves bengali for six at five
+O O B-restaurant_type O O B-cuisine O B-party_size_number O B-timeRange
+O O B-poi O O B-poi O B-party_size_number O B-party_size_number
+table for one somewhere in palco
+O O B-party_size_number O O B-city
+O O B-party_size_number O O B-state
+book me a table for 3 at tkk fried chicken in sri lanka
+O O O O O B-party_size_number O B-restaurant_name I-restaurant_name I-restaurant_name O B-country I-country
+O O O O O B-party_size_number O B-restaurant_name I-restaurant_name B-country O B-restaurant_name B-country
+book a restaurant for one person at 7 am
+O O B-restaurant_type O B-party_size_number O O B-timeRange I-timeRange
+O O O O B-spatial_relation O O B-timeRange B-state
+i d like a reservation at a place in iran for neva  alice and maggie parker
+O O O O O O O O O B-country O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description
+O O O O O O O O O B-cuisine O B-cuisine I-cuisine B-party_size_description B-cuisine B-state

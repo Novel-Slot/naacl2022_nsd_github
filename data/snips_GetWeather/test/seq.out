@@ -1,0 +1,104 @@
+O O B-condition_description O B-state O B-timeRange I-timeRange I-timeRange
+O O O O B-current_location O B-timeRange
+O O B-condition_description O O O O B-current_location I-current_location O B-timeRange O
+O O B-condition_description O B-city
+O O O O O O B-timeRange I-timeRange O B-state
+O O O O O O B-city I-city O B-timeRange I-timeRange I-timeRange
+O B-timeRange I-timeRange O B-country
+O O O O O B-city I-city B-state
+O O O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O O O B-city B-state O B-timeRange I-timeRange I-timeRange
+O O B-condition_temperature O B-city
+O O O O O O O B-current_location I-current_location
+O O O B-condition_temperature O O B-current_location I-current_location
+O O O B-condition_description O B-timeRange I-timeRange O B-city I-city B-state
+O O O O O O B-condition_temperature O B-city B-country I-country
+O O B-condition_description O B-city
+O O O O O B-current_location I-current_location O O O B-timeRange I-timeRange I-timeRange
+O B-condition_description O B-spatial_relation O B-country
+O O B-condition_description O O B-state I-state I-state
+O O O O O B-city
+O O O O O B-timeRange I-timeRange I-timeRange O B-city I-city O B-condition_temperature O
+O O O O O O O O O B-city
+O O O O O B-city B-state
+O O O O O O B-country I-country I-country I-country O B-timeRange I-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange B-current_location
+O B-timeRange O O O O B-current_location O O O B-condition_temperature
+O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O O B-condition_temperature O B-state
+O O O B-condition_description O B-state
+O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange O B-state O B-spatial_relation
+O O O O O O B-city
+O O O O O O B-city I-city B-country O B-timeRange I-timeRange I-timeRange
+O O O O O O B-state
+O O O O O B-country O B-timeRange O
+O O O O O B-city I-city
+O O O O O O B-city I-city I-city O B-country
+O O O O O O B-city B-state
+O O O O O B-timeRange O O B-current_location I-current_location
+O O O O O B-spatial_relation I-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange O
+O O O O O B-country O B-timeRange
+O B-timeRange I-timeRange I-timeRange O O O O O O B-state O O O B-spatial_relation I-spatial_relation O O
+O O O O O B-country B-timeRange I-timeRange I-timeRange O O O B-condition_temperature
+O O O O O O O O B-country
+O O O O B-condition_description O B-city I-city B-country
+O O O O O O B-city I-city B-state O B-timeRange I-timeRange
+O O O B-condition_temperature B-current_location B-timeRange I-timeRange I-timeRange
+O O B-country
+O B-state O O O B-condition_temperature O B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city
+O O O B-city O O B-state
+O O B-condition_description B-timeRange O B-state
+O O O O O B-state O B-timeRange
+O O B-timeRange I-timeRange B-current_location
+O O O O B-condition_description B-current_location O B-timeRange
+O B-condition_description O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O O O O O O B-timeRange I-timeRange O O O B-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O O O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi
+O O O O O B-condition_temperature O B-country I-country O B-timeRange I-timeRange
+O O O O O B-country
+O O O O B-condition_description B-timeRange I-timeRange O B-state
+O O O O O O B-current_location I-current_location O B-timeRange I-timeRange
+B-timeRange I-timeRange I-timeRange O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi
+O B-condition_temperature O O O O B-state O B-timeRange I-timeRange
+O O O B-condition_temperature O B-city B-state
+O O O O O O B-country O B-timeRange I-timeRange
+O O O O B-state
+O O O B-condition_description O O B-city B-country
+O O B-condition_description O B-city
+O O O O O B-condition_description O B-current_location B-timeRange I-timeRange I-timeRange I-timeRange
+O O B-state O O B-timeRange
+O O O B-condition_description O B-country
+O O O O O B-timeRange I-timeRange I-timeRange O B-city B-country
+O O O B-timeRange O O B-state I-state
+O O O O B-condition_description B-timeRange O B-city
+O O O O O O B-spatial_relation B-country
+O O O B-condition_temperature O O B-country I-country I-country
+O O O O B-condition_description O B-city
+O O O O O O B-city
+O O B-condition_description O O B-city I-city
+O O O O O O O B-timeRange I-timeRange I-timeRange O B-state
+O O O B-condition_temperature O B-timeRange O B-city B-country
+O O O O O B-city I-city
+O O O B-state O O B-city I-city
+O O O B-condition_temperature O O B-current_location I-current_location B-timeRange I-timeRange I-timeRange
+O O O O O O B-spatial_relation B-state B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-condition_temperature O B-timeRange O B-city I-city B-state
+O O O O O B-timeRange I-timeRange O O B-country
+O O B-condition_temperature O B-timeRange I-timeRange I-timeRange O B-city B-country I-country
+O O O B-condition_temperature B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state
+O O O O O B-condition_temperature B-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi
+O O O O O B-condition_temperature O B-timeRange I-timeRange O B-state
+O O O O O B-city
+O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-condition_description O O B-spatial_relation O B-state
+O O O B-condition_description O O B-city B-state O B-timeRange I-timeRange
+O O O B-condition_description O B-city I-city
+O O O B-condition_temperature O B-city I-city
+O O O B-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state I-state
+O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+O O O O B-condition_description O B-city I-city B-state
+O O B-city B-state
+O O O O O B-condition_description O B-timeRange I-timeRange O B-city I-city B-country

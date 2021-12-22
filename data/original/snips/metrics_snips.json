@@ -1,0 +1,164 @@
+{
+    "SearchCreativeWork": {
+        "num_sentences": 1847,
+        "all_slottypes": [
+            "object_type",
+            "object_name"
+        ],
+        "num_slottypes": 2,
+        "details": {
+            "object_type": 1383,
+            "object_name": 1847
+        }
+    },
+    "RateBook": {
+        "num_sentences": 1876,
+        "all_slottypes": [
+            "object_type",
+            "object_name",
+            "object_part_of_series_type",
+            "best_rating",
+            "rating_unit",
+            "object_select",
+            "rating_value"
+        ],
+        "num_slottypes": 7,
+        "details": {
+            "object_select": 942,
+            "object_type": 910,
+            "rating_value": 1877,
+            "best_rating": 1007,
+            "object_part_of_series_type": 298,
+            "rating_unit": 1081,
+            "object_name": 942
+        }
+    },
+    "PlayMusic": {
+        "num_sentences": 1914,
+        "all_slottypes": [
+            "service",
+            "sort",
+            "playlist",
+            "artist",
+            "album",
+            "track",
+            "music_item",
+            "year",
+            "genre"
+        ],
+        "num_slottypes": 9,
+        "details": {
+            "artist": 1118,
+            "album": 167,
+            "service": 738,
+            "music_item": 750,
+            "track": 202,
+            "year": 611,
+            "sort": 330,
+            "playlist": 144,
+            "genre": 139
+        }
+    },
+    "SearchScreeningEvent": {
+        "num_sentences": 1852,
+        "all_slottypes": [
+            "spatial_relation",
+            "movie_type",
+            "object_type",
+            "location_name",
+            "movie_name",
+            "object_location_type",
+            "timeRange"
+        ],
+        "num_slottypes": 7,
+        "details": {
+            "movie_name": 765,
+            "object_type": 730,
+            "movie_type": 666,
+            "spatial_relation": 655,
+            "object_location_type": 450,
+            "location_name": 566,
+            "timeRange": 251
+        }
+    },
+    "AddToPlaylist": {
+        "num_sentences": 1818,
+        "all_slottypes": [
+            "playlist",
+            "playlist_owner",
+            "artist",
+            "entity_name",
+            "music_item"
+        ],
+        "num_slottypes": 5,
+        "details": {
+            "entity_name": 561,
+            "playlist": 1819,
+            "artist": 686,
+            "playlist_owner": 1043,
+            "music_item": 827
+        }
+    },
+    "GetWeather": {
+        "num_sentences": 1896,
+        "all_slottypes": [
+            "spatial_relation",
+            "condition_description",
+            "current_location",
+            "condition_temperature",
+            "state",
+            "geographic_poi",
+            "city",
+            "country",
+            "timeRange"
+        ],
+        "num_slottypes": 9,
+        "details": {
+            "city": 810,
+            "state": 457,
+            "timeRange": 991,
+            "geographic_poi": 280,
+            "spatial_relation": 198,
+            "current_location": 259,
+            "country": 476,
+            "condition_temperature": 453,
+            "condition_description": 426
+        }
+    },
+    "BookRestaurant": {
+        "num_sentences": 1881,
+        "all_slottypes": [
+            "spatial_relation",
+            "restaurant_type",
+            "sort",
+            "party_size_number",
+            "party_size_description",
+            "cuisine",
+            "restaurant_name",
+            "served_dish",
+            "state",
+            "poi",
+            "city",
+            "country",
+            "facility",
+            "timeRange"
+        ],
+        "num_slottypes": 14,
+        "details": {
+            "party_size_number": 975,
+            "state": 496,
+            "restaurant_type": 1299,
+            "timeRange": 637,
+            "city": 494,
+            "party_size_description": 307,
+            "sort": 188,
+            "served_dish": 258,
+            "spatial_relation": 300,
+            "poi": 135,
+            "restaurant_name": 324,
+            "country": 336,
+            "cuisine": 197,
+            "facility": 157
+        }
+    }
+}

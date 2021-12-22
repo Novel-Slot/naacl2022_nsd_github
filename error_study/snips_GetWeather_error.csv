@@ -1,0 +1,312 @@
+will it snow in mt on june 13  2038
+O O B-condition_description O B-state O B-timeRange I-timeRange I-timeRange
+O O B-spatial_relation O B-condition_description O B-condition_description I-condition_description I-condition_description
+what s the weather here on 2/7/2021
+O O O O B-current_location O B-timeRange
+O O O B-timeRange I-timeRange O B-country
+will the wind die down at my current location by supper time
+O O B-condition_description O O O O B-current_location I-current_location O B-timeRange O
+O B-condition_temperature I-condition_temperature I-condition_temperature I-condition_temperature O B-current_location I-current_location I-current_location O B-condition_description O
+will it snow in amy
+O O B-condition_description O B-city
+O O B-spatial_relation O B-state
+what will the weather be at nine am in hi
+O O O O O O B-timeRange I-timeRange O B-state
+O O O O O O B-timeRange I-timeRange O B-O
+what will the weather be in lago vista on october fourteenth  2022
+O O O O O O B-city I-city O B-timeRange I-timeRange I-timeRange
+O O O B-spatial_relation O O B-city I-city O B-condition_description I-condition_description I-condition_description
+weather next year in canada
+O B-timeRange I-timeRange O B-country
+O B-city I-city O B-timeRange
+what is the weather of east portal ks
+O O O O O B-city I-city B-state
+O O B-condition_description I-condition_description I-condition_description I-condition_description I-condition_description B-country
+what is the weather going to be like in klondike gold rush national historical park on february the 28th  2034
+O O O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange I-timeRange I-timeRange
+O O B-condition_temperature I-condition_temperature O O O O O B-country I-country I-country I-country I-country I-country O B-city I-city I-city I-city
+what will the weather be in berville ak on feb  6  2017
+O O O O O O B-city B-state O B-timeRange I-timeRange I-timeRange
+O O O B-condition_description O O B-condition_description B-city O B-condition_temperature I-condition_temperature I-condition_temperature
+is it warm in botna
+O O B-condition_temperature O B-city
+O B-condition_description I-condition_description O B-country
+what is the weather forecast for my current place
+O O O O O O O B-current_location I-current_location
+O O O B-spatial_relation I-spatial_relation O O B-timeRange O
+will it be freezing in the current position
+O O O B-condition_temperature O O B-current_location I-current_location
+O O O B-O O O B-timeRange I-timeRange
+will there be snowfall at six pm in leisure knoll california
+O O O B-condition_description O B-timeRange I-timeRange O B-city I-city B-state
+O O O B-condition_description O B-country I-country O B-city I-city I-city
+tell me when it will be chilly in chicken  united kingdom
+O O O O O O B-condition_temperature O B-city B-country I-country
+O O O O O O B-condition_temperature O B-spatial_relation I-spatial_relation I-spatial_relation
+is it windy in telogia
+O O B-condition_description O B-city
+O B-current_location I-current_location O B-country
+check the forecast for the current spot in the future oct  19  2037
+O O O O O B-current_location I-current_location O O O B-timeRange I-timeRange I-timeRange
+O O O O O B-state O O O O B-country I-country I-country
+is fog forecast close-by to pakistan
+O B-condition_description O B-spatial_relation O B-country
+O B-condition_description I-condition_description B-condition_description O B-condition_description
+is there snow in the district of columbia
+O O B-condition_description O O B-state I-state I-state
+O B-city I-city O O B-state I-state I-state
+what is the forecast in heber
+O O O O O B-city
+O O B-condition_temperature I-condition_temperature O B-O
+what is the forecast for in 1 second at monte sereno for freezing temps
+O O O O O B-timeRange I-timeRange I-timeRange O B-city I-city O B-condition_temperature O
+O O O O O B-timeRange I-timeRange I-timeRange O B-current_location I-current_location O B-current_location I-current_location
+show me the weather forecast for the city of spencer
+O O O O O O O O O B-city
+O O O B-condition_temperature I-condition_temperature O O O O B-condition_description
+how is the weather in getzville  minnesota
+O O O O O B-city B-state
+O O B-country I-country O B-current_location B-timeRange
+i need a weather forecast for são tomé and príncipe on december 8th  2026
+O O O O O O B-country I-country I-country I-country O B-timeRange I-timeRange I-timeRange
+O O O B-city I-city O B-timeRange I-timeRange I-timeRange I-timeRange O B-timeRange I-timeRange I-timeRange
+tell me the weather forecast for april 15  2019 here
+O O O O O O B-timeRange I-timeRange I-timeRange B-current_location
+O O O B-O I-O O B-condition_description I-condition_description I-condition_description O
+at meal time while i m here will it be hot
+O B-timeRange O O O O B-current_location O O O B-condition_temperature
+O B-country O O B-timeRange I-timeRange I-timeRange O O O O
+will it snowstorm in long lake national wildlife refuge
+O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O O B-condition_temperature I-condition_temperature I-condition_temperature I-condition_temperature I-condition_temperature I-condition_temperature I-condition_temperature
+is it freezing in colorado
+O O B-condition_temperature O B-state
+O B-state I-state O B-condition_temperature
+will it be stormy in ma
+O O O B-condition_description O B-state
+O O O B-spatial_relation O B-condition_description
+what will the weather be in la at 9 o clock
+O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+O O O O O O B-spatial_relation O B-condition_description I-condition_description I-condition_description
+will it be hot on orthodox good friday in michigan and close-by
+O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange O B-state O B-spatial_relation
+O O O B-state O B-city I-city I-city O B-state O B-O
+what is the weather like in hurstville
+O O O O O O B-city
+O O B-state I-state I-state O B-condition_description
+what will the weather be in waverly city brazil on purple heart day
+O O O O O O B-city I-city B-country O B-timeRange I-timeRange I-timeRange
+O O O B-current_location O O B-timeRange I-timeRange B-timeRange O B-spatial_relation I-spatial_relation I-spatial_relation
+what is the weather forecast in delaware
+O O O O O O B-state
+O O O B-timeRange I-timeRange O B-condition_description
+what s the forecast for belize around meal time
+O O O O O B-country O B-timeRange O
+O O O B-city O B-O O B-city O
+what s the weather in low moor
+O O O O O B-city I-city
+O O O B-condition_description O B-state I-state
+what is the weather like in north salt lake and afghanistan
+O O O O O O B-city I-city I-city O B-country
+O O B-condition_temperature I-condition_temperature O O B-state I-state I-state I-state I-state
+what s the weather like in schenectady ma
+O O O O O O B-city B-state
+O O B-city I-city O O B-O B-city
+how is the weather right now at my current place
+O O O O O B-timeRange O O B-current_location I-current_location
+O O B-O I-O O B-timeRange O O B-state O
+tell me the weather forecast close by brown county state park for meal time
+O O O O O B-spatial_relation I-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange O
+O O O B-condition_description I-condition_description B-spatial_relation I-spatial_relation B-state I-state I-state I-state O B-timeRange O
+what s it like in bahrain right now
+O O O O O B-country O B-timeRange
+O O O O O B-condition_description O B-timeRange
+on jan  the twentieth what will it feel like in ct or the area not far from it
+O B-timeRange I-timeRange I-timeRange O O O O O O B-state O O O B-spatial_relation I-spatial_relation O O
+O B-state I-state I-state O O O O O O B-city O O O B-timeRange I-timeRange O O
+i need a table in uruguay in 213 days when it s chillier
+O O O O O B-country B-timeRange I-timeRange I-timeRange O O O B-condition_temperature
+O O O O O B-condition_description B-O I-O I-O O O O B-state
+can you tell me the weather forecast for samoa
+O O O O O O O O B-country
+O O O O O B-condition_description I-condition_description O B-country
+will there be a blizzard in white house curacao
+O O O O B-condition_description O B-city I-city B-country
+O O O O B-timeRange O B-country I-country I-country
+what will the weather be in grand coteau ut at six pm
+O O O O O O B-city I-city B-state O B-timeRange I-timeRange
+O O O B-state O O B-condition_description I-condition_description B-country O B-condition_temperature I-condition_temperature
+will it be freezing here in 9 seconds
+O O O B-condition_temperature B-current_location B-timeRange I-timeRange I-timeRange
+O O O B-country I-country B-condition_description I-condition_description I-condition_description
+forecast for serbia
+O O B-country
+B-city O B-timeRange
+in hawaii will it be warmer at 3 am
+O B-state O O O B-condition_temperature O B-timeRange I-timeRange
+O B-timeRange O O O B-city O B-city I-city
+how will the weather be different 5 years from now in waconia
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city
+O O B-state I-state O O B-city I-city I-city I-city O B-condition_description
+what is the niceville forecast in fm
+O O O B-city O O B-state
+O O O B-city I-city O B-state
+is there rain now in maine
+O O B-condition_description B-timeRange O B-state
+O B-condition_description I-condition_description I-condition_description O B-state
+what is the forecast for montana at dinner
+O O O O O B-state O B-timeRange
+O O O B-O O B-country O B-timeRange
+weather for this winter here
+O O B-timeRange I-timeRange B-current_location
+O O O B-country O
+will there be a cloud here at 06:50:20
+O O O O B-condition_description B-current_location O B-timeRange
+O O O O B-country O O B-condition_description
+is hail in the weather forecast for monterey bay national marine sanctuary
+O B-condition_description O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O B-timeRange O O B-spatial_relation I-spatial_relation O B-city I-city I-city I-city I-city
+what will the weather be like this tuesday in the area neighboring rendezvous mountain educational state forest
+O O O O O O B-timeRange I-timeRange O O O B-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O O O B-timeRange O O B-city I-city B-country I-country I-country B-state B-country I-country I-country I-country I-country
+is it forecast to be warm in doi inthanon national park
+O O O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi
+O O O O O B-condition_description O B-condition_temperature I-condition_temperature I-condition_temperature I-condition_temperature
+will there be snowfall in kitlope heritage conservancy
+O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi
+O O O B-timeRange O B-city I-city I-city
+is it going to be chilly in western sahara in 13 hours
+O O O O O B-condition_temperature O B-country I-country O B-timeRange I-timeRange
+O O O O O B-timeRange O B-spatial_relation I-spatial_relation B-country I-country I-country
+what is the forecast for niger
+O O O O O B-country
+O O O B-spatial_relation O B-state
+is it going to snow next year in wv
+O O O O B-condition_description B-timeRange I-timeRange O B-state
+O O O O B-city I-city I-city O B-city
+what s the forecast for my current place at five pm
+O O O O O O B-current_location I-current_location O B-timeRange I-timeRange
+O O O O O O B-timeRange O O B-O I-O
+in 17 minutes  will it be foggy in songimvelo game reserve
+B-timeRange I-timeRange I-timeRange O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi
+B-country I-country I-country O O O B-state O B-city B-timeRange I-timeRange
+how hot will it be in wisconsin on august fourth
+O B-condition_temperature O O O O B-state O B-timeRange I-timeRange
+O O O O O O B-country O B-country I-country
+will it be chilly in oakdale ok
+O O O B-condition_temperature O B-city B-state
+O O O B-city O B-timeRange B-spatial_relation
+what s the weather forecast for croatia on jul  25th
+O O O O O O B-country O B-timeRange I-timeRange
+O O O B-O I-O O B-city O B-spatial_relation I-spatial_relation
+whats the weather in ga
+O O O O B-state
+O B-state I-state O B-O
+will there be cloud coverage in verdery  myanmar
+O O O B-condition_description O O B-city B-country
+O O O B-condition_description I-condition_description O B-state I-state
+will it snow in granbury
+O O B-condition_description O B-city
+O O B-state O B-country
+what is the forecast for foggy conditions here in twenty one minutes
+O O O O O B-condition_description O B-current_location B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O O B-timeRange I-timeRange I-timeRange B-O I-O I-O I-O
+weather for ma in the morning
+O O B-state O O B-timeRange
+O O B-city I-city I-city I-city
+is there a snowstorm in russia
+O O O B-condition_description O B-country
+O B-state I-state I-state O B-condition_temperature
+will it be nice on aug  the nineteenth in beda bulgaria
+O O O O O B-timeRange I-timeRange I-timeRange O B-city B-country
+O O O O O B-country I-country I-country O B-condition_description B-condition_temperature
+weather for the night time in new mexico
+O O O B-timeRange O O B-state I-state
+O O O B-spatial_relation I-spatial_relation O B-state I-state
+will it be a snowy day in dalcour
+O O O O B-condition_description B-timeRange O B-city
+O O O B-state I-state I-state O B-state
+what is the weather forecast for close-by burkina
+O O O O O O B-spatial_relation B-country
+O O O B-condition_temperature I-condition_temperature O B-city B-condition_description
+what is the freezing forecast for british virgin islands
+O O O B-condition_temperature O O B-country I-country I-country
+O O O B-condition_description I-condition_description O B-city I-city I-city
+will there be a snowstorm in taberville
+O O O O B-condition_description O B-city
+O O O O B-timeRange O B-condition_description
+what is the weather forecast for cistern
+O O O O O O B-city
+O O O B-state I-state O B-condition_temperature
+is it rainy season in manitou springs
+O O B-condition_description O O B-city I-city
+O B-O I-O I-O O B-O I-O
+what will the weather be like on january 2nd  2025 in ga
+O O O O O O O B-timeRange I-timeRange I-timeRange O B-state
+O O B-city I-city I-city O O B-spatial_relation I-spatial_relation I-spatial_relation O B-state
+will it be chillier at 06:05:48 in wagener réunion
+O O O B-condition_temperature O B-timeRange O B-city B-country
+O O O B-O O B-condition_description O B-O B-condition_description
+what is the weather in south bradenton
+O O O O O B-city I-city
+O O B-O I-O O B-country I-country
+what is the nh forecast for mexican hat
+O O O B-state O O B-city I-city
+O O O B-O I-O O B-state I-state
+will it be chillier at my current location in one minute
+O O O B-condition_temperature O O B-current_location I-current_location B-timeRange I-timeRange I-timeRange
+O O O B-city O O B-timeRange O B-timeRange I-timeRange I-timeRange
+what is the weather forecast for close-by gu 3 years from now
+O O O O O O B-spatial_relation B-state B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-condition_description I-condition_description O B-timeRange B-spatial_relation B-state I-state I-state I-state
+will it be freezing on 4/20/2038 in american beach nc
+O O O B-condition_temperature O B-timeRange O B-city I-city B-state
+O O O B-spatial_relation O B-spatial_relation O B-timeRange I-timeRange B-timeRange
+i need the wather for next week in the philippines
+O O O O O B-timeRange I-timeRange O O B-country
+O O O B-country O B-state I-state O O B-city
+is it freezing on jun  the 21st in apshawa south africa
+O O B-condition_temperature O B-timeRange I-timeRange I-timeRange O B-city B-country I-country
+O B-country I-country O B-state I-state I-state O B-city B-country I-country
+will it be temperate in the same area in vi
+O O O B-condition_temperature B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state
+O O O B-country I-country I-country I-country I-country O B-country
+is it going to get chillier near hocking state forest
+O O O O O B-condition_temperature B-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi
+O O O O O B-city B-state B-O I-O I-O
+is it going to be chillier at 10 pm in texas
+O O O O O B-condition_temperature O B-timeRange I-timeRange O B-state
+O O O O O B-state O B-condition_temperature I-condition_temperature O B-country
+what s the weather in timbo
+O O O O O B-city
+O O B-state I-state O B-country
+tell me the weather forecast for sugarloaf provincial park ten weeks from now
+O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-city I-city O B-timeRange I-timeRange I-timeRange B-timeRange I-timeRange I-timeRange I-timeRange
+what is the humidity like in faraway on ak
+O O O B-condition_description O O B-spatial_relation O B-state
+O O B-condition_description I-condition_description O O B-condition_description O B-state
+what will the humidity be in varnado georgia at one am
+O O O B-condition_description O O B-city B-state O B-timeRange I-timeRange
+O O O B-condition_temperature O O B-condition_description I-condition_description O B-state I-state
+will it get overcast in la dolores
+O O O B-condition_description O B-city I-city
+O O O B-spatial_relation O B-city I-city
+will it be hotter in wyomissing hills
+O O O B-condition_temperature O B-city I-city
+O O O B-city O B-condition_temperature I-condition_temperature
+show weather while sunset in the same area in south carolina
+O O O B-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state I-state
+O B-current_location I-current_location I-current_location B-state I-state I-state I-state O B-state I-state
+what will the weather be in stelvio national park 1 hour and 1 minute from now
+O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-condition_description O O B-condition_temperature I-condition_temperature I-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+is it going to storm in black rock alaska
+O O O O B-condition_description O B-city I-city B-state
+O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-O I-O I-O
+weather for beauregard il
+O O B-city B-state
+O O B-condition_description I-condition_description
+will there be alot of wind on march 13th in lost creek bahrain
+O O O O O B-condition_description O B-timeRange I-timeRange O B-city I-city B-country
+O O O B-city I-city I-city O B-country I-country O B-state I-state B-timeRange

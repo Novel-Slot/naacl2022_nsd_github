@@ -1,0 +1,3 @@
+train : valid : test = 13084 : 700 : 700
+labels =  ['PlayMusic' 'AddToPlaylist' 'RateBook' 'SearchScreeningEvent'
+ 'BookRestaurant' 'GetWeather' 'SearchCreativeWork']

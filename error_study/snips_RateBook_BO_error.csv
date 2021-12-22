@@ -1,0 +1,234 @@
+rate the current novel four of 6 stars
+O O B-object_select B-object_type B-rating_value O B-best_rating B-rating_unit
+O O O B-object_type B-rating_value O B-best_rating B-rating_unit
+i rate shadow of suribachi at five stars
+O O B-object_name I-object_name I-object_name O B-rating_value B-rating_unit
+O O B-object_select B-object_name I-object_name O B-rating_value B-rating_unit
+rate lamy of santa fe 5 of 6 stars
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating B-rating_unit
+O B-object_select O B-object_name I-object_name B-rating_value O B-best_rating B-rating_unit
+rate cuisines of the axis of evil and other irritating states one out of 6
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating
+O B-object_select I-object_select B-object_name I-object_name I-object_name I-object_name O O B-object_select B-object_name B-rating_value O O B-best_rating
+rate the chronicle ten from tomorrow a 2
+O O B-object_part_of_series_type B-object_name I-object_name I-object_name O B-rating_value
+O O B-object_select B-object_name I-object_name B-object_select O B-best_rating
+rate the book an appeal from the new to the old whigs a 0
+O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value
+O O B-object_type B-object_select B-object_name I-object_name I-object_name I-object_name O B-object_select B-object_name I-object_name O B-best_rating
+rate this current novel 1 stars
+O O B-object_select B-object_type B-rating_value B-rating_unit
+O O O B-object_type B-rating_value B-rating_unit
+i rate secret water as a 4
+O O B-object_name I-object_name O O B-rating_value
+O O B-object_select B-object_name O O B-best_rating
+give 1 out of 6 points to this novel
+O B-rating_value O O B-best_rating B-rating_unit O B-object_select B-object_type
+O B-rating_value O O B-best_rating B-rating_unit O O B-object_type
+rate this textbook a zero
+O B-object_select B-object_type O B-rating_value
+O O B-object_type O B-best_rating
+rate awaiting strange gods: weird and lovecraftian fictions a 1
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value
+O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-best_rating
+rate the current chronicle a zero
+O O B-object_select B-object_part_of_series_type O B-rating_value
+O O B-object_select B-object_type O B-best_rating
+a day no pigs would die deserves a best rating of 6 and a value of 4
+B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O O O O O B-best_rating O O O O B-rating_value
+B-object_select I-object_select I-object_select B-object_name I-object_name I-object_name O O B-object_select O O B-best_rating O O O O B-best_rating
+i would rate that old ace in the hole one stars and a best rating of 6
+O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit O O O O O B-best_rating
+O O O B-object_select B-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit O O B-object_select O O B-best_rating
+add the rating for this current series a four out of 6 points
+O O O O O B-object_select B-object_part_of_series_type O B-rating_value O O B-best_rating B-rating_unit
+O O O O O B-object_select B-object_type O B-rating_value O O B-best_rating B-rating_unit
+rate the beggar of volubilis 1 out of 6
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating
+O B-object_select B-object_name I-object_name I-object_name B-rating_value O O B-best_rating
+give the current book five stars out of 6
+O O B-object_select B-object_type B-rating_value B-rating_unit O O B-best_rating
+O O O B-object_type B-rating_value B-rating_unit O O B-best_rating
+rate current essay a zero
+O B-object_select B-object_type O B-rating_value
+O B-object_select B-object_type O B-best_rating
+the last hawk gets a total of 3 out of 6 stars from me
+B-object_name I-object_name I-object_name O O O O B-rating_value O O B-best_rating B-rating_unit O O
+B-object_select I-object_select B-object_name O O O O B-rating_value O O B-best_rating B-rating_unit O O
+rate the current chronicle five stars
+O O B-object_select B-object_part_of_series_type B-rating_value B-rating_unit
+O O B-object_select B-object_name B-rating_value B-rating_unit
+rate this novel five of 6
+O B-object_select B-object_type B-rating_value O B-best_rating
+O O B-object_type B-rating_value O B-best_rating
+my rating for the eiffel tower and other mythologies is 0 out of 6 stars
+O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O O B-best_rating B-rating_unit
+O O O B-object_select B-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O O B-best_rating B-rating_unit
+rate this textbook 2 out of 6
+O B-object_select B-object_type B-rating_value O O B-best_rating
+O O B-object_type B-rating_value O O B-best_rating
+give this current book zero out of 6
+O O B-object_select B-object_type B-rating_value O O B-best_rating
+O O O B-object_type B-rating_value O O B-best_rating
+rate this album 5 points
+O B-object_select B-object_type B-rating_value B-rating_unit
+O O B-object_type B-rating_value B-rating_unit
+i want to give the current textbook 0 out of 6 stars
+O O O O O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit
+O O O O O O B-object_type B-rating_value O O B-best_rating B-rating_unit
+i would rate the persistence of vision 1 stars and a best rating of 6
+O O O B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit O O O O O B-best_rating
+O O O B-object_select B-object_name I-object_name I-object_name B-rating_value B-rating_unit O O B-object_select O O B-best_rating
+give the current album a five
+O O B-object_select B-object_type O B-rating_value
+O O O B-object_type O B-best_rating
+the current essay gets four points
+O B-object_select B-object_type O B-rating_value B-rating_unit
+O O B-object_type O B-rating_value B-rating_unit
+rate the book english grammar in use a five
+O O B-object_type B-object_name I-object_name I-object_name I-object_name O B-rating_value
+O O B-object_type B-object_name I-object_name B-object_select O O B-best_rating
+i want to give a mortal flower a two
+O O O O B-object_name I-object_name I-object_name O B-rating_value
+O O O O B-object_select B-object_name I-object_name O B-best_rating
+rate the little book four stars
+O B-object_name I-object_name I-object_name B-rating_value B-rating_unit
+O O B-object_select B-object_type B-rating_value B-rating_unit
+rate the current textbook one of 6 stars
+O O B-object_select B-object_type B-rating_value O B-best_rating B-rating_unit
+O O O B-object_type B-rating_value O B-best_rating B-rating_unit
+award this current novel 0 points
+O O B-object_select B-object_type B-rating_value B-rating_unit
+O O O B-object_type B-rating_value B-rating_unit
+rate this book four of 6 points
+O B-object_select B-object_type B-rating_value O B-best_rating B-rating_unit
+O O B-object_type B-rating_value O B-best_rating B-rating_unit
+cock-a-doodle-doo was awful  i m giving it a 0 out of 6
+B-object_name O O O O O O O B-rating_value O O B-best_rating
+B-object_select O B-object_select I-object_select O O O O B-rating_value O O B-best_rating
+i would give french poets and novelists a best rating of 6 and a value of three
+O O O B-object_name I-object_name I-object_name I-object_name O O O O B-best_rating O O O O B-rating_value
+O O O B-object_select I-object_select I-object_select I-object_select O B-object_select O O B-best_rating O O O O B-best_rating
+i want to give the chronicle zombie bums from uranus 3 points
+O O O O O B-object_part_of_series_type B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit
+O O O O O B-object_select B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit
+i would give this current novel 2 stars with a best rating of 6
+O O O O B-object_select B-object_type B-rating_value B-rating_unit O O O O O B-best_rating
+O O O O O B-object_type B-rating_value B-rating_unit O O B-object_select O O B-best_rating
+rate this album a 2
+O B-object_select B-object_type O B-rating_value
+O O B-object_type O B-best_rating
+i rate doom 3: worlds on fire a 1 of 6
+O O B-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O B-best_rating
+O O B-object_select B-object_name I-object_name I-object_name I-object_name O B-rating_value O B-best_rating
+rate in the eyes of mr  fury zero of 6
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating
+O B-object_select I-object_select B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating
+i give the phishing manual four stars out of 6
+O O B-object_name I-object_name I-object_name B-rating_value B-rating_unit O O B-best_rating
+O O O B-object_name B-object_type B-rating_value B-rating_unit O O B-best_rating
+the chronicle charlie peace earns 4 stars from me
+O B-object_part_of_series_type B-object_name I-object_name O B-rating_value B-rating_unit O O
+O B-object_select B-object_name I-object_name O B-rating_value B-rating_unit O O
+rate if tomorrow comes 2 of 6 stars
+O B-object_name I-object_name I-object_name B-rating_value O B-best_rating B-rating_unit
+O O B-object_select B-object_name B-rating_value O B-best_rating B-rating_unit
+the book history by contract is rated five stars in my opinion
+O B-object_type B-object_name I-object_name I-object_name O O B-rating_value B-rating_unit O O O
+O B-object_type B-object_select O B-object_name O O B-rating_value B-rating_unit O B-object_select I-object_select
+rate this novel a 3
+O B-object_select B-object_type O B-rating_value
+O O B-object_type O B-best_rating
+give private games 3 stars out of 6
+O B-object_name I-object_name B-rating_value B-rating_unit O O B-best_rating
+O B-object_select B-object_name B-rating_value B-rating_unit O O B-best_rating
+i rate the chronicle  son of the tree with four of 6 points
+O O O B-object_part_of_series_type B-object_name I-object_name I-object_name I-object_name O B-rating_value O B-best_rating B-rating_unit
+O O O B-object_select B-object_name I-object_name I-object_name I-object_name O B-rating_value O B-best_rating B-rating_unit
+rate maps for lost lovers 1 of 6
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating
+O B-object_select O B-object_name I-object_name B-rating_value O B-best_rating
+rate the manxman 5 out of 6
+O B-object_name I-object_name B-rating_value O O B-best_rating
+O B-object_select B-object_name B-rating_value O O B-best_rating
+give 4 points to this novel
+O B-rating_value B-rating_unit O B-object_select B-object_type
+O B-rating_value O O O B-object_type
+rate this essay a two out of 6
+O B-object_select B-object_type O B-rating_value O O B-best_rating
+O O B-object_type O B-rating_value O O B-best_rating
+give this chronicle a 4
+O B-object_select B-object_part_of_series_type O B-rating_value
+O O B-object_type O B-best_rating
+rate the key word and other mysteries 4 of 6
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating
+O B-object_select B-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating
+i want to rate the ingenuity gap 3 out of 6
+O O O O B-object_name I-object_name I-object_name B-rating_value O O B-best_rating
+O O O O O B-object_select B-object_name B-rating_value O O B-best_rating
+rate the current chronicle series 3 out of 6 points
+O O B-object_select B-object_part_of_series_type I-object_part_of_series_type B-rating_value O O B-best_rating B-rating_unit
+O O B-object_select B-object_type I-object_type B-rating_value O O B-best_rating B-rating_unit
+put four rating on the raging quiet
+O B-rating_value O O B-object_name I-object_name I-object_name
+O B-rating_value B-rating_unit O B-object_select B-object_name I-object_name
+rate the lie tree five
+O B-object_name I-object_name I-object_name B-rating_value
+O B-object_select B-object_name I-object_name B-best_rating
+give 2 stars to the doom brigade
+O B-rating_value B-rating_unit O B-object_name I-object_name I-object_name
+O B-rating_value B-rating_unit O B-object_select B-object_name I-object_name
+rate this series 2 out of 6
+O B-object_select B-object_part_of_series_type B-rating_value O O B-best_rating
+O O B-object_type B-rating_value O O B-best_rating
+rate the current novel four out of 6 points
+O O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit
+O O O B-object_type B-rating_value O O B-best_rating B-rating_unit
+for the current saga i rate 2 of 6 stars
+O O B-object_select B-object_part_of_series_type O O B-rating_value O B-best_rating B-rating_unit
+O O O B-object_name B-object_select O B-rating_value O B-best_rating B-rating_unit
+rate the current book a three
+O O B-object_select B-object_type O B-rating_value
+O O O B-object_type O B-best_rating
+rate this novel 0 of 6 stars
+O B-object_select B-object_type B-rating_value O B-best_rating B-rating_unit
+O O B-object_type B-rating_value O B-best_rating B-rating_unit
+rate canto for a gypsy two of 6 stars
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating B-rating_unit
+O B-object_select O B-object_select B-object_name B-rating_value O B-best_rating B-rating_unit
+this textbook gets a two
+B-object_select B-object_type O O B-rating_value
+O B-object_type O O B-best_rating
+rate this textbook a 1
+O B-object_select B-object_type O B-rating_value
+O O B-object_type O B-best_rating
+rate a taste of blackberries  a three
+O B-object_name I-object_name I-object_name I-object_name O B-rating_value
+O O O O B-object_name O B-best_rating
+rate the saint in trouble 1 of 6
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating
+O B-object_select B-object_name I-object_name I-object_name B-rating_value O B-best_rating
+rate this book three points
+O B-object_select B-object_type B-rating_value B-rating_unit
+O O B-object_type B-rating_value B-rating_unit
+i am giving this current book album 0 out of 6 stars
+O O O O B-object_select B-object_type I-object_type B-rating_value O O B-best_rating B-rating_unit
+O O O O O B-object_type I-object_type B-rating_value O O B-best_rating B-rating_unit
+rate wielding a red sword 0 stars
+O B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit
+O B-object_select I-object_select B-object_name I-object_name B-rating_value B-rating_unit
+the current textbook gets a 2 rating
+O B-object_select B-object_type O O B-rating_value O
+O B-object_select B-object_type O O B-best_rating O
+rate this book titled the improvisatore five stars
+O O B-object_type O B-object_name I-object_name B-rating_value B-rating_unit
+O O B-object_type O B-object_select B-object_name B-rating_value B-rating_unit
+i give this book dictionary of the english language a 4 rating
+O O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O
+O O O B-object_type B-object_select B-object_name I-object_name I-object_name I-object_name O B-best_rating O
+rate this album 0 points out of 6
+O B-object_select B-object_type B-rating_value B-rating_unit O O B-best_rating
+O O B-object_type B-rating_value B-rating_unit O O B-best_rating
+rate this album two out of 6
+O B-object_select B-object_type B-rating_value O O B-best_rating
+O O B-object_type B-rating_value O O B-best_rating
